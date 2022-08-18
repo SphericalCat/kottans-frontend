@@ -1,35 +1,35 @@
 Любий щоденнику, мені не підібрати слів.....
 ---
 ##### Вітаю в моєму щоденнику по Stage0!  
-![](7KJ.gif)
+![](img/7KJ.gif)
 
 ---
 ## Загальні
- > <img src="paw.png" alt="+" width="20"> Основи Git  
- > <img src="paw.png" alt="+" width="20">  Linux CLI і мережа  
- > <img src="blackpaw.png" alt="+" width="20"> VCS (hello gitty), GitHub і співпраця  
+ > <img src="img/paw.png" alt="+" width="20"> Основи Git  
+ > <img src="img/paw.png" alt="+" width="20">  Linux CLI і мережа  
+ > <img src="img/blackpaw.png" alt="+" width="20"> VCS (hello gitty), GitHub і співпраця  
 
  ## Основи інтерфейсу
- > <img src="blackpaw.png" alt="+" width="20"> Вступ до HTML і CSS  
- > <img src="blackpaw.png" alt="+" width="20"> Адаптивний веб-дизайн  
- > <img src="blackpaw.png" alt="+" width="20"> Практика HTML і CSS  
- > <img src="blackpaw.png" alt="+" width="20"> Основи JavaScript  
- > <img src="blackpaw.png" alt="+" width="20"> Об’єктна модель документа – практ  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Вступ до HTML і CSS  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Адаптивний веб-дизайн  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Практика HTML і CSS  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Основи JavaScript  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Об’єктна модель документа – практ  
 
  ## Розширені теми
- > <img src="blackpaw.png" alt="+" width="20"> Building a Tiny JS World (pre-OOP) - практика  
- > <img src="blackpaw.png" alt="+" width="20"> Об'єктно-орієнтований JS - практика  
- > <img src="blackpaw.png" alt="+" width="20"> ООП вправа – практ  
- > <img src="blackpaw.png" alt="+" width="20"> Офлайн веб-додатки  
- > <img src="blackpaw.png" alt="+" width="20"> Парна гра на пам'ять — реальний проект!   
- > <img src="blackpaw.png" alt="+" width="20"> Оптимізація роботи сайту  
- > <img src="blackpaw.png" alt="+" width="20"> Friends App - реальний проект!  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Building a Tiny JS World (pre-OOP) - практика  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Об'єктно-орієнтований JS - практика  
+ > <img src="img/blackpaw.png" alt="+" width="20"> ООП вправа – практ  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Офлайн веб-додатки  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Парна гра на пам'ять — реальний проект!   
+ > <img src="img/blackpaw.png" alt="+" width="20"> Оптимізація роботи сайту  
+ > <img src="img/blackpaw.png" alt="+" width="20"> Friends App - реальний проект!  
 
  # Загальні
  ***
  ## Основи Git
  Октокіт з'їв мій мозок
- В процессі опанування гіта я виглядала якось так ![](Stoned_Fox.jpg)  
+ В процессі опанування гіта я виглядала якось так ![](img/Stoned_Fox.jpg)  
  Дякую пану Artem Sychov за терпіння та допомогу :3
  ***
  ## Linux CLI, and HTTP
@@ -38,10 +38,10 @@
 
  <details>
     <summary>Шановні скріншоти</summary>
-    <img src="linux.jpg" alt="">
-    <img src="linux2.jpg" alt="">
-    <img src="linux3.jpg" alt="">
-    <img src="linux4.jpg" alt="">
+    <img src="img/linux.jpg" alt="">
+    <img src="img/linux2.jpg" alt="">
+    <img src="img/linux3.jpg" alt="">
+    <img src="img/linux4.jpg" alt="">
 </details>
 
 Так як досі я була не знайома з системою Linux новим для мене було все, довелось навіт вести конспект бо запам'ятати всі команди без належної практики було майже неможливо.
@@ -52,10 +52,10 @@
 
 А ще якщо використовувати гугл перекладач можно зіштовхнутися з дуже забавними перекладами команд, наприклад оцим)
 
-![](kit.jpg)
+![](img/kit.jpg)
 
 ##### HTTP
-![](mem.jpg)  
+![](img/mem.jpg)  
  Так як до цього про HTTP я знала лише те що це протокол, новим було все) 
  Але я тепер знаю шо таке URL.
  В статтях все подано дещо складно, мобуть тому що це переклад тому буду ще ознайомлюватись з цією темою окремо, щоб більш детально зрозуміти тему
