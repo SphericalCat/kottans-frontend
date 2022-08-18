@@ -7,7 +7,7 @@
 ## Загальні
  > <img src="img/paw.png" alt="+" width="20"> Основи Git  
  > <img src="img/paw.png" alt="+" width="20">  Linux CLI і мережа  
- > <img src="img/blackpaw.png" alt="+" width="20"> VCS (hello gitty), GitHub і співпраця  
+ > <img src="img/paw.png" alt="+" width="20"> VCS (hello gitty), GitHub і співпраця  
 
  ## Основи інтерфейсу
  > <img src="img/blackpaw.png" alt="+" width="20"> Вступ до HTML і CSS  
