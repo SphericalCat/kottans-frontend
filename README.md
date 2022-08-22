@@ -11,7 +11,7 @@
 
  ## Основи інтерфейсу
  > <img src="img/paw.png" alt="+" width="20"> Вступ до HTML і CSS  
- > <img src="img/blackpaw.png" alt="+" width="20"> Адаптивний веб-дизайн  
+ > <img src="img/paw.png" alt="+" width="20"> Адаптивний веб-дизайн  
  > <img src="img/blackpaw.png" alt="+" width="20"> Практика HTML і CSS  
  > <img src="img/blackpaw.png" alt="+" width="20"> Основи JavaScript  
  > <img src="img/blackpaw.png" alt="+" width="20"> Об’єктна модель документа – практика  
@@ -78,7 +78,7 @@
 ## Intro to HTML and CSS
 
 <details>
-    <summary>Шановний скріншот</summary>
+    <summary>Шановні скріншоти</summary>
     <img src="task_html_css_intro/ca.jpg" alt="">
     
 </details>  
@@ -86,6 +86,21 @@
 Оскільки я вже дещо знайома за HTML та CSS мені нарешті є що вказати в пункті про те, що ж для мене було новим.   
 В HTML більш детально розібрала таблиці, раніше знала, що вони є, але не користувалась ними. Також новими для мене були різні види форм. В CSS новим для мене було те, що стиль можно надавати ще й за атрибутом, а додавання шрифтів через @font-family.  
 Це базові знання тому всі вони знадобляться мені у майбутньому.
+
+## Responsive Web Design  
+
+<details>
+    <summary>Шановний скріншот</summary>
+    <img src="task_responsive_web_design/flex.jpg" alt="">
+    <img src="task_responsive_web_design/grid.jpg" alt="">
+    
+</details>  
+
+ <img src="img/Group 1.jpg" alt="">
+
+П'яних жабеняток з туси довела додому і розсадила по лататтям. Морква полита, будяки ліквідовано. Бабцін Gorod hero рушає далі!  
+З нового те шо всі ці рядочки та колоночки в гріді можна запхати в одну властивість _grid-area_. Буду цим обов'язково користуватись у майбутньому бо це зручно.  
+Здивувало те, що я, начебто, перестала плутатись у всіх цих властивостях Flexbox, і теме можу флексіть боксами разом в флексбоксом.
 
 
 
