@@ -78,7 +78,7 @@
 ## Intro to HTML and CSS
 
 <details>
-    <summary>Шановні скріншоти</summary>
+    <summary>Шановний скріншот</summary>
     <img src="task_html_css_intro/ca.jpg" alt="">
     
 </details>  
@@ -90,7 +90,7 @@
 ## Responsive Web Design  
 
 <details>
-    <summary>Шановний скріншот</summary>
+    <summary>Шановні скріншоти</summary>
     <img src="task_responsive_web_design/flex.jpg" alt="">
     <img src="task_responsive_web_design/grid.jpg" alt="">
     
