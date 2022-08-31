@@ -112,7 +112,8 @@
 З нового те шо всі ці рядочки та колоночки в гріді можна запхати в одну властивість _grid-area_. Буду цим обов'язково користуватись у майбутньому бо це зручно.  
 Здивувало те, що я, начебто, перестала плутатись у всіх цих властивостях Flexbox, і теме можу флексіть боксами разом в флексбоксом.
 
-#HTML & CSS Practice  
+## HTML & CSS Practice
+
 Запрошую вас обійняти котана))  
 [Demo](https://sphericalcat.github.io/Kottans-HTML-CSS-Popup/)
 [Code](https://github.com/SphericalCat/Kottans-HTML-CSS-Popup)
