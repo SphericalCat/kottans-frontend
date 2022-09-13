@@ -138,5 +138,5 @@
     <img src="task_js_basics/js3.jpg" alt="">
     <img src="task_js_basics/js4.jpg" alt="">
     <img src="task_js_basics/js5.jpg" alt="">
-
+</details>
 Йой, далі буде....
