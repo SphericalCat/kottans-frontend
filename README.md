@@ -17,7 +17,7 @@
 > <img src="img/paw.png" alt="+" width="20"> Вступ до HTML і CSS  
 > <img src="img/paw.png" alt="+" width="20"> Адаптивний веб-дизайн  
 > <img src="img/paw.png" alt="+" width="20"> Практика HTML і CSS  
-> <img src="img/blackpaw.png" alt="+" width="20"> Основи JavaScript  
+> <img src="img/paw.png" alt="+" width="20"> Основи JavaScript  
 > <img src="img/blackpaw.png" alt="+" width="20"> Об’єктна модель документа – практика
 
 ## Розширені теми
